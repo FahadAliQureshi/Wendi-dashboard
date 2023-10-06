@@ -71,7 +71,7 @@ const UserDetail = ({ user }) => {
     //     colors={['#e15b64', '#f47e60', '#f8b26a', '#abbd81', '#849b87']}
     //   />;
     // } elseU
-      setEditedser({
+      setEditedUser({
         fullName: specificUser?.data?.fullName,
         gender: specificUser?.data?.gender,
         sexualOrientation: specificUser?.data?.sexualOrientation,
